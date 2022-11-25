@@ -1,1 +1,1 @@
-basic.showString("Kaixo mundua!")
+basic.showString("Alba Sura")
